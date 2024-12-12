@@ -4,7 +4,7 @@ Hello World! My name is Dieu Tung Truong and I am a student at [Cal State Fuller
 
 ## Computer Science Projects
 
-My GitHub page is [https://github.com/ranreo123] (https://github.com/ranreo123)
+My GitHub page is [ranreo123] (https://github.com/ranreo123/)
 
 ### Favorite CPSC 120L Labs
 
